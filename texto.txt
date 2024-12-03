@@ -1,3 +1,5 @@
 segunda parte git/Branch
 
-texto desde rama 2
+texto desde rama 2 nuevo texto
+
+texto 3 
